@@ -1,0 +1,40 @@
+.paloma-email-subscription-box
+{
+	
+}
+
+.paloma-email-subscription-title
+{
+	
+}
+.paloma-mailings_title
+{
+	
+}
+.paloma-text-field
+{
+ margin-top: 5px;
+}
+.paloma-submit
+{
+ margin:10px 0px;
+}
+.paloma-mailings_list ul li
+{
+	line-height: 1.2em;
+	margin-bottom: 0.5em;
+}
+
+.paloma-email-text,.paloma-name-text,.paloma-get-title-text,.paloma-get-company-text,.paloma-get-mobilenr-text
+{
+	
+}
+
+.paloma-maildate:before
+{
+	content: "(";
+}
+.paloma-maildate:after
+{
+	content: ")";
+}
